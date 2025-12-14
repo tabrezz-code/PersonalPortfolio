@@ -23,7 +23,7 @@ export default function Projects() {
       description: "Personal portfolio built with Next.js showcasing my projects and skills.",
       tech: ["Next.js", "React", "Tailwind"],
       demo: "https://example.com",
-      github: "https://github.com",
+      github: "https://github.com/tabrezz-code/PersonalPortfolio.git",
     },
   ]
 
